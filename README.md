@@ -57,9 +57,6 @@ I'm Kowshik, a Full Stack Web Application Developer from <img alt="flag" src="ht
 🌐 &emsp;[kowshikkuri.com](https://kowshikkuri.com)
 
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ratulkuri.kowshik)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ratulkuri&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![kowshik's github stats](https://github-readme-stats.vercel.app/api?username=ratulkuri&count_private=true&theme=tokyonight&hide=contribs,prs)
