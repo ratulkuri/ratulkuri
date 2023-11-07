@@ -60,3 +60,10 @@ I'm Kowshik, a Full Stack Web Application Developer from <img alt="flag" src="ht
 [![trophy](https://github-profile-trophy.vercel.app/?username=ratulkuri&theme=nord&column=4&row=1)](https://kowshikkuri.com)
 
 ![kowshik's github stats](https://github-readme-stats.vercel.app/api?username=ratulkuri&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+#### A little more about me...
+<img alt="focus icon" src="https://emojis.slackmojis.com/emojis/images/1620850631/38423/dart.png?1620850631" width="20" /> &emsp;Current Focus: Expanding Knowledge of React, Next.js, and Redux. <br />
+<img alt="focus icon" src="https://emojis.slackmojis.com/emojis/images/1660415427/60781/hundred-points.gif?1660415427" width="20" /> &emsp;Future Plan: Do a 100 Day code chalange. <br />
+<img alt="focus icon" src="https://media.giphy.com/media/Y4z5TxeWCCSaaaUs5U/giphy.gif" width="20" /> &emsp;Future Goal: Contribute in open source. <br />
+<img alt="focus icon" src="https://emojis.slackmojis.com/emojis/images/1643515395/14135/fish_swim.gif?1643515395" width="20" /> &emsp;Hobby: Fish Keeping. <br />
+<img alt="focus icon" src="https://emojis.slackmojis.com/emojis/images/1643514752/7598/badminton.png?1643514752" width="20" /> &emsp;Sports: Badminton. <br />
