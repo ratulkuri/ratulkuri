@@ -1,4 +1,3 @@
-<!-- ![Github Banner](https://picsum.photos/1042/544) -->
 ![GitHub Profile Banner](https://github.com/ratulkuri/kowshik/assets/13179146/8c3ab089-e6ac-4e58-bc15-9b0392627cf9)
 
 
