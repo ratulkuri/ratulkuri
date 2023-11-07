@@ -1,8 +1,11 @@
 <!-- ![Github Banner](https://picsum.photos/1042/544) -->
+![GitHub Profile Banner](https://github.com/ratulkuri/kowshik/assets/13179146/8c3ab089-e6ac-4e58-bc15-9b0392627cf9)
+
 
 ## Hi there 👋
 
-I'm Kowshik, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. Eager to contribute my expertise to innovative projects and collaborate in creating impactful online platforms.
+I'm Kowshik, a Full Stack Web Application Developer from <img alt="flag" src="https://github.com/ratulkuri/kowshik/assets/13179146/44cb158b-bb40-4e4e-8664-fb92773cd03c" width="18" />
+ Bangladesh. Eager to contribute my expertise to innovative projects and collaborate in creating impactful online platforms.
 
 :coffee: &emsp;Connect with me!
 
