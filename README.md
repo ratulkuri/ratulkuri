@@ -13,7 +13,7 @@ I'm Kowshik, a Full Stack Web Application Developer from <img alt="flag" src="ht
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("outpur => ", variable)` <br/>
 :e-mail: &emsp;How to reach me: me@kowshikkuri.com.<br/>
-⚡ Fun fact: Internet users blink less than usual.
+⚡ &emsp;Fun fact: Internet users blink less than usual.
 
 #### Things I code with
 
