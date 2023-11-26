@@ -11,7 +11,7 @@ I'm Kowshik, a Full Stack Web Application Developer from <img alt="flag" src="ht
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ratul.kuri) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshikkuri) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayhitorainmaker@gmail.com)
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("outpur => ", variable)` <br/>
+:computer: &emsp;Most used line of code `console.log("output => ", variable)` <br/>
 :e-mail: &emsp;How to reach me: me@kowshikkuri.com.<br/>
 ⚡ &emsp;Fun fact: Internet users blink less than usual.
 
