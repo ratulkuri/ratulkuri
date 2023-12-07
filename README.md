@@ -26,7 +26,7 @@ I'm Kowshik, a Full Stack Web Application Developer from <img alt="flag" src="ht
     <tr border: none;>
       <td><b>Projects</b></td>
       <td><b>Description</b></td>
-      <td><b>Skills</b></td>
+      <td><b>Skills/Stacks/Tools</b></td>
     </tr>
   </thead>
   <tbody>
