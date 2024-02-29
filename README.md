@@ -44,7 +44,7 @@ I'm Kowshik, a Full Stack Web Application Developer from <img alt="flag" src="ht
     </tr>
     <tr>
       <td><a href="https://khulnatigers.net" target="_blank">Khulna Tigers</a></td>
-      <td>BPL Team Website</td>
+      <td>Official Website of a BPL Team</td>
       <td>React, Redux, Laravel</td>
     </tr>
   </tbody>
