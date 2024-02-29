@@ -1,4 +1,5 @@
-[![GitHub Profile Banner](https://github.com/ratulkuri/ratulkuri/assets/13179146/b3715a1e-d0ce-402a-a701-ebcb7a8bb6d2)](https://kowshikkuri.com)
+<!--- [![GitHub Profile Banner](https://github.com/ratulkuri/ratulkuri/assets/13179146/b3715a1e-d0ce-402a-a701-ebcb7a8bb6d2)](https://kowshikkuri.com)  -->
+[![GitHub Profile Banner](https://github.com/ratulkuri/ratulkuri/assets/13179146/1566ee92-ea01-484d-9fb2-b3363a9154b5)](https://kowshikkuri.com)
 
 
 
